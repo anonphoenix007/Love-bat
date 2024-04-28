@@ -27,7 +27,7 @@ VERCEL PROCESS:
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-***Here's an Example [`OUTPUT`](https://love-bat.vercel.app/love.html).***
+***Here's an Example [`OUTPUT`](https://love-bat.vercel.app/).***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
